@@ -1,0 +1,4 @@
+event_type,count
+carrier_substitution,1
+doc_mismatch,2
+missed_pickup,2

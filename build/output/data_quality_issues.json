@@ -1,0 +1,32 @@
+[
+  {
+    "row": 2,
+    "exception_id": "CPX-88213",
+    "field": "event_ts",
+    "issue": "Timezone not supplied; ISO formatting applied without assuming UTC"
+  },
+  {
+    "row": 3,
+    "exception_id": "CPX-88214",
+    "field": "event_ts",
+    "issue": "Timezone not supplied; ISO formatting applied without assuming UTC"
+  },
+  {
+    "row": 5,
+    "exception_id": "CPX-88216",
+    "field": "carrier_code",
+    "issue": "Missing carrier code; cannot infer from other shipments"
+  },
+  {
+    "row": 5,
+    "exception_id": "CPX-88216",
+    "field": "event_ts",
+    "issue": "Timezone not supplied; ISO formatting applied without assuming UTC"
+  },
+  {
+    "row": 6,
+    "exception_id": "CPX-88217",
+    "field": "event_ts",
+    "issue": "Timezone not supplied; ISO formatting applied without assuming UTC"
+  }
+]
